@@ -8,8 +8,8 @@ export default function Details() {
 	const newsItem = router.query.newsItem;
 
 	return (
-		<main>
+		<>
 			<h2>Details of the news</h2>
-		</main>
+		</>
 	);
 }
